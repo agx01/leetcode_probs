@@ -14,5 +14,8 @@ two numbers such that they add up to 'target'.
 5. If yes, we have found our 2 indices, return index stored in (target-element) and current index in a list
 
 ## Performance
-Runtime: **61 ms**, faster than **95.80%** of Python3 online submissions for Two Sum. \n
-Memory Usage: **15.1 MB**, less than **64.71%** of Python3 online submissions for Two Sum.
+### Runtime:
+**61 ms**, faster than **95.80%** of Python3 online submissions for Two Sum. 
+
+### Memory Usage:
+**15.1 MB**, less than **64.71%** of Python3 online submissions for Two Sum.
